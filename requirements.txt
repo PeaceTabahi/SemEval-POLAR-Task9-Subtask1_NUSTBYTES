@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+langdetect
+textblob
+chardet
+emoji
+chardet
