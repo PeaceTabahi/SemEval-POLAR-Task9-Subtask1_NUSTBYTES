@@ -9,4 +9,4 @@ langdetect
 textblob
 chardet
 emoji
-chardet
+pandas
