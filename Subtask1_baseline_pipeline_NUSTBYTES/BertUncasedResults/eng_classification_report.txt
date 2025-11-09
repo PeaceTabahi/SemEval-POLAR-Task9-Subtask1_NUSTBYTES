@@ -1,0 +1,8 @@
+               precision    recall  f1-score   support
+
+Non-Polarized     0.8515    0.8413    0.8464       334
+    Polarized     0.7415    0.7562    0.7488       201
+
+     accuracy                         0.8093       535
+    macro avg     0.7965    0.7988    0.7976       535
+ weighted avg     0.8102    0.8093    0.8097       535
